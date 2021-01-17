@@ -1,0 +1,26 @@
+{
+  "name": "livingspring-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "axios": "^0.21.0",
+    "downloadjs": "^1.4.7",
+    "formik": "^2.2.5",
+    "formik-material-ui": "^3.0.0",
+    "next": "9.5.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "yup": "^0.30.0"
+  },
+  "devDependencies": {
+    
+  }
+}

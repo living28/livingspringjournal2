@@ -1,0 +1,16 @@
+.image{
+    width: 400px;
+    max-height: 400px;
+/* max-width: 900px; */
+    object-fit: fill;
+/* height: 550px; */
+
+/* border: solid 2px; */
+/* mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0)) */
+/* //z-index: -1; */
+/* //margin-bottom: -150px; */
+}
+.left{
+    margin-left: 0px;
+}
+

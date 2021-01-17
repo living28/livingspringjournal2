@@ -1,0 +1,39 @@
+{
+  "name": "nacetem-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "apollo-cache-inmemory": "^1.6.6",
+    "apollo-client": "^2.6.10",
+    "apollo-link-context": "^1.0.20",
+    "apollo-react-hooks": "0.0.1",
+    "apollo-upload-client": "^14.1.1",
+    "axios": "^0.21.0",
+    "downloadjs": "^1.4.7",
+    "formik": "^2.2.5",
+    "formik-material-ui": "^3.0.0",
+    "graphql": "^15.3.0",
+    "graphql-tag": "^2.11.0",
+    "material-table": "^1.69.0",
+    "next": "9.5.1",
+    "pdf-viewer-reactjs": "^2.1.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-facebook": "^8.1.4",
+    "react-material-ui-carousel": "^1.8.1",
+    "react-twitter-widgets": "^1.9.5",
+    "yup": "^0.30.0"
+  },
+  "devDependencies": {
+    "react-admin": "^3.8.4"
+  }
+}
